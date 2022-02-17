@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://brucew2099.github.io/csb-o4bn7u/static/css/main.2ff26c7c.chunk.css",
+    "main.js": "https://brucew2099.github.io/csb-o4bn7u/static/js/main.faf0be08.chunk.js",
+    "main.js.map": "https://brucew2099.github.io/csb-o4bn7u/static/js/main.faf0be08.chunk.js.map",
+    "runtime-main.js": "https://brucew2099.github.io/csb-o4bn7u/static/js/runtime-main.606aa057.js",
+    "runtime-main.js.map": "https://brucew2099.github.io/csb-o4bn7u/static/js/runtime-main.606aa057.js.map",
+    "static/js/2.7f2524f7.chunk.js": "https://brucew2099.github.io/csb-o4bn7u/static/js/2.7f2524f7.chunk.js",
+    "static/js/2.7f2524f7.chunk.js.map": "https://brucew2099.github.io/csb-o4bn7u/static/js/2.7f2524f7.chunk.js.map",
+    "index.html": "https://brucew2099.github.io/csb-o4bn7u/index.html",
+    "static/css/main.2ff26c7c.chunk.css.map": "https://brucew2099.github.io/csb-o4bn7u/static/css/main.2ff26c7c.chunk.css.map",
+    "static/js/2.7f2524f7.chunk.js.LICENSE.txt": "https://brucew2099.github.io/csb-o4bn7u/static/js/2.7f2524f7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.606aa057.js",
+    "static/js/2.7f2524f7.chunk.js",
+    "static/css/main.2ff26c7c.chunk.css",
+    "static/js/main.faf0be08.chunk.js"
+  ]
+}

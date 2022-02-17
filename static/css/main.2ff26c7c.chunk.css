@@ -1,0 +1,2 @@
+*{box-sizing:border-box}#root,body,html{height:100%}.App{font-family:sans-serif;text-align:center}.board-container{display:grid;grid-template-columns:repeat(3,1fr);grid-template-rows:repeat(3,150px);border:100px solid orange}.square{border:2px solid #000;font-size:50px;display:flex;justify-content:center;align-items:center}
+/*# sourceMappingURL=main.2ff26c7c.chunk.css.map */
